@@ -14,4 +14,4 @@ class Libro {
     void mostrarInfo();
     void actualizarNumEjemplaresDisponibles();
     bool verificarDisponibilidadPrestamo();
-}
+};
